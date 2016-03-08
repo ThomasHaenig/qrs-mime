@@ -57,3 +57,5 @@ lic;application/octet-stream;;true
 cor;application/octet-stream;;true
 woff2;application/font-woff2;;true
 gitignore;text/plain;;false
+npld;npld/text;;true 
+npls;npls/text;;true 
